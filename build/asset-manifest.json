@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/schoolapp/static/css/main.cf24dd66.chunk.css",
+    "main.js": "/schoolapp/static/js/main.776c767d.chunk.js",
+    "main.js.map": "/schoolapp/static/js/main.776c767d.chunk.js.map",
+    "runtime-main.js": "/schoolapp/static/js/runtime-main.c8a6a38a.js",
+    "runtime-main.js.map": "/schoolapp/static/js/runtime-main.c8a6a38a.js.map",
+    "static/css/2.4c78f058.chunk.css": "/schoolapp/static/css/2.4c78f058.chunk.css",
+    "static/js/2.5c159a3d.chunk.js": "/schoolapp/static/js/2.5c159a3d.chunk.js",
+    "static/js/2.5c159a3d.chunk.js.map": "/schoolapp/static/js/2.5c159a3d.chunk.js.map",
+    "static/js/3.a20162fa.chunk.js": "/schoolapp/static/js/3.a20162fa.chunk.js",
+    "static/js/3.a20162fa.chunk.js.map": "/schoolapp/static/js/3.a20162fa.chunk.js.map",
+    "index.html": "/schoolapp/index.html",
+    "static/css/2.4c78f058.chunk.css.map": "/schoolapp/static/css/2.4c78f058.chunk.css.map",
+    "static/css/main.cf24dd66.chunk.css.map": "/schoolapp/static/css/main.cf24dd66.chunk.css.map",
+    "static/js/2.5c159a3d.chunk.js.LICENSE.txt": "/schoolapp/static/js/2.5c159a3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a6a38a.js",
+    "static/css/2.4c78f058.chunk.css",
+    "static/js/2.5c159a3d.chunk.js",
+    "static/css/main.cf24dd66.chunk.css",
+    "static/js/main.776c767d.chunk.js"
+  ]
+}
